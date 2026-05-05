@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dr-armentano
-Demo web para ESTUDIO JURIDICO DR. ARMENTANO — diseñada por eterlab.
+# ESTUDIO JURIDICO DR. ARMENTANO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
